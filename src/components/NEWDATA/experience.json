@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Lorem Ipsum Senior Developer",
+    "organisation": "Dolor Sit Amet Inc.",
+    "startDate": "Jan, 2023",
+    "endDate": "Present",
+    "location": "Lorem City, Ipsum Country",
+    "experiences": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    ],
+    "imageSrc": "company/dolor.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Engineer",
+    "organisation": "Adipiscing Elit Corp.",
+    "startDate": "Feb, 2021",
+    "endDate": "Dec, 2022",
+    "location": "Amet City, Consectetur Country",
+    "experiences": [
+      "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.",
+      "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore."
+    ],
+    "imageSrc": "company/adipiscing.png"
+  },
+  {
+    "id": 3,
+    "role": "Junior Developer Intern",
+    "organisation": "Elit Sed Tech",
+    "startDate": "Jun, 2020",
+    "endDate": "Aug, 2020",
+    "location": "Labore City, Magna Country",
+    "experiences": [
+      "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.",
+      "Deserunt mollit anim id est laborum, sed ut perspiciatis unde omnis iste natus error sit."
+    ],
+    "imageSrc": "company/elit.png"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+    
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "C++ Programming",
+    "imageSrc": "skills/c++.jpg"
+  },
+  {
+    "title":"C Programming",
+    "imageSrc":"skills/cprogramming.jpg"
+  },
+  {
+    "title": "Object Oriented Programming",
+    "imageSrc": "skills/oops.jpg"
+  },
+  {
+    "title": "Structured Query Language",
+    "imageSrc": "skills/sql.jpg"
+  }
+]
