@@ -1,18 +1,18 @@
 [
   {
     "key": 1,
-    "title": "Food Paradise",
-    "imageSrc": "projectimage/food.jpg",
-    "description": "This is a project made with complete React js and styling with CSS",
-    "demo": "",
-    "source": ""
+    "title": "Notes App",
+    "imageSrc": "projectimage/notesapp.jpeg",
+    "description": "A smart, searchable notes app made with MERN stack for efficiency. ",
+    "demo": "/projects",
+    "source": "/projects"
   },
   {
     "key": 2,
     "title": "News Website",
     "imageSrc": "projectimage/news.jpg",
-    "description": "This is a project made with complete HTML ,CSS and JavaSript",
-    "demo": "",
-    "source": ""
+    "description": "A dynamic news app built using HTML, CSS, and JavaScript.",
+    "demo": "/projects",
+    "source": "/projects"
   }
 ]

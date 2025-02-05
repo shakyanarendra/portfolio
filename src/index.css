@@ -75,7 +75,7 @@ a{
 }
 
 .home .left{
-  background-color: var(--bg-color);
+  background-color:rgb(1, 1, 14);
   width: 550px;
   text-align: center;
   padding: 30px;
@@ -100,11 +100,10 @@ a{
   animation-iteration-count: infinite;
 }
 /* ABOUT SECTION */
-   /* About Us Section */
 .about-content {
   display: flex;
   align-items: center;
-  background-color: transparent; /* Use transparent to match body background */
+  background-color: transparent; 
   max-width: 1200px;
   height: 400px;
   margin: auto;
@@ -301,9 +300,8 @@ a{
   background-color: #ffcc00;
 }
 
-/* Base styles (default) */
 
-/* Media Queries */
+
 
 /* Tablets (Portrait and Landscape) */
 @media (max-width: 850px) {
@@ -365,7 +363,7 @@ a{
   }
 
   .skills .items .item {
-    width: calc(33.33%); /* Adjust width for better fit */
+    width: calc(33.33%); 
   }
 
   .contact-icon .items {
@@ -396,7 +394,7 @@ a{
   }
 
   .home {
-    flex-direction: column;
+    flex-direction: column-reverse;
     height: auto;
   }
 
@@ -416,7 +414,7 @@ a{
   }
   .container{
 
-    /* background-color: red; */
+    
     align-items: center;
     width: 100%;
   }
@@ -428,7 +426,7 @@ a{
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    /* background-color: white; */
+    
   }
   #skills .items{
     display: flex;
@@ -436,10 +434,7 @@ a{
     flex-wrap: wrap;
     width: 100%;
 
-    /* width: calc(100% - 40px);  */
-    /* Adjust width for mobile view */
-    /* background-color: aqua; */
-    /* margin: 10px 0; */
+    
   }
   .skills .items .item{
     width: 80%;

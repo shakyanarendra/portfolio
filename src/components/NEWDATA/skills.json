@@ -17,6 +17,18 @@
     "imageSrc": "skills/react.png"
   },
   {
+    "title": "NodeJs",
+    "imageSrc": "skills/nodejs.png"
+  },
+  {
+    "title": "ExpressJs",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.jpeg"
+  },
+  {
     "title": "C++ Programming",
     "imageSrc": "skills/c++.jpg"
   },
