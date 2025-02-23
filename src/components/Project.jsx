@@ -37,9 +37,7 @@ const Project = () => {
                 <a href={data.demo} className="btn btn-primary mx-3">
                   Demo
                 </a>
-                <a href={data.source} className="btn btn-warning">
-                  Code
-                </a>
+              
               </div>
             </div>
           </div>
