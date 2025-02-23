@@ -4,15 +4,13 @@
     "title": "Notes App",
     "imageSrc": "projectimage/notesapp.jpeg",
     "description": "A smart, searchable notes app made with MERN stack for efficiency. ",
-    "demo": "/projects",
-    "source": "/projects"
+    "demo": "https://notes-frontend-five-henna.vercel.app/"
   },
   {
     "key": 2,
     "title": "News Website",
     "imageSrc": "projectimage/news.jpg",
     "description": "A dynamic news app built using HTML, CSS, and JavaScript.",
-    "demo": "/projects",
-    "source": "/projects"
+    "demo": "https://github.com/shakyanarendra/News-App"
   }
 ]
